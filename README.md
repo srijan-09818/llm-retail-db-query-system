@@ -4,6 +4,7 @@ This is an end-to-end LLM project based on Langchain and Google Gemini (Generati
 NepTech Store is a laptop store where they maintain their inventory, sales, and discounts data in the MySQL database. A store manager may ask questions such as:
 - How many Asus laptops with 8GB RAM and 512GB SSD are left in stock?
 - What will be the total sales value if I sell all laptops with i7 processors after applying discounts?
+- How much revenue will the store generate if i sell all Apple laptops today without any discounts?
 
 The system is intelligent enough to generate accurate queries for a given question and execute them on the MySQL database.
 
